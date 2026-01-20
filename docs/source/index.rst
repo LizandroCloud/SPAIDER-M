@@ -7,7 +7,7 @@ It pulls data from the `Open Food Facts database <https://world.openfoodfacts.or
 and offers a *simple* and *intuitive* API.
 
 Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+how to :ref:`installation` the project. Lumache hosts its documentation on Read the Docs.
 
 .. note::
 
