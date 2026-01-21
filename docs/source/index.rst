@@ -7,4 +7,5 @@ Welcome to SPAIDER Documentation
 
    usage
    api
+   apix
    
