@@ -1,6 +1,5 @@
 SPAIDER
 =============
-See the Github repository:  'https://github.com/LizandroCloud/SpAIDER'_.
 
 Sequential and Parallel Algorithms Integrated to Differential Equation
 Routines (SPAIDER) is a collection of Matlab/Python scripts tailored to
@@ -15,5 +14,8 @@ multiple shooting algorithms. The main features of SPAIDER include:
 - Integration with Machine Learning Models.
 - Python and Matlab Interfaces.
 
+Source Code
+-----------
 
+The SPAIDER source code is available on GitHub: 'https://github.com/LizandroCloud/SpAIDER'_.
 
