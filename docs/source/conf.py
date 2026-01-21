@@ -1,7 +1,7 @@
 # Configuration file for the Sphinx documentation builder.
 
 # -- Project information
-
+html_logo = "_docs/static/logo.png"
 project = 'Lumache'
 copyright = '2021, Graziella'
 author = 'Graziella'
