@@ -1,5 +1,5 @@
 About
 =====
 
-.. _Authors:
+.. _authors:
 
