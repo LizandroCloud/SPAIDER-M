@@ -1,9 +1,9 @@
 # Configuration file for the Sphinx documentation builder.
 
 # -- Project information
-html_logo = "_docs/static/logo.png"
-project = 'Lumache'
-copyright = '2021, Graziella'
+
+project = 'SPAIDER'
+copyright = '2026, Graziella'
 author = 'Graziella'
 
 release = '0.1'
@@ -30,6 +30,8 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
+html_logo = "_static/spaider_logo.png"
+html_static_path = ['_static']
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
