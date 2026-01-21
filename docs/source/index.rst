@@ -6,4 +6,5 @@ Welcome to SPAIDER Documentation
 .. toctree::
    api
    usage
+   installation
    
