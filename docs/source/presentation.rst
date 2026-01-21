@@ -1,4 +1,4 @@
-API Reference
+SPAIDER
 =============
 
 Sequential and Parallel Algorithms Integrated to Differential Equation
@@ -8,14 +8,11 @@ solve dynamic optimization and optimal control problems.
 It provides single shooting (control vector parameterization) and
 multiple shooting algorithms. The main features of SPAIDER include:
 
-- Adaptive strategies for control-vector parameterization
-- Symbolic modelling of algebraic ordinary differential equations
-- Interfaces with external solvers such as Aspen Hysys, Aspen Plus and EMSO
+- Adaptive strategies for control-vector parameterization.
+- Symbolic environment for modelling of differential and algebraic equations (DAEs).
+- Interfaces with external solvers such as Aspen Hysys, Aspen Plus and EMSO.
+- Integration with Machine Learning Models.
+- Python and Matlab Interfaces.
 
-Modules
--------
-
-.. toctree::
-   :maxdepth: 2
 
 
