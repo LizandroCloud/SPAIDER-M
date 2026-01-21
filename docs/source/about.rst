@@ -1,3 +1,5 @@
-SPAIDER
-=============
+About
+=====
+
+.. _Authors:
 
