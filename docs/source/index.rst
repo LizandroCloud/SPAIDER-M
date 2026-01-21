@@ -8,7 +8,3 @@ Welcome to SPAIDER Documentation
    usage
    installation
    about
-   
-.. toctree::
-   :maxdepth: 2
-   :caption: About
