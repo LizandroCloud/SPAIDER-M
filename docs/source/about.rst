@@ -6,6 +6,7 @@ O SPAIDER foi desenvolvido ao longo dos anos 2018-2026 a partir do trabalho resu
 - Authors
 
   Lizandro de Sousa Santos
+
   .. image:: https://cdn-icons-png.flaticon.com/16/174/174857.png
    :target: https://www.linkedin.com/in/lizandro-santos-80aa215b/
 - Major Contributions
