@@ -29,7 +29,7 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-html_theme = 'furo'
+html_theme = 'pydata_sphinx_theme'
 html_logo = 'static/logo.png'
 html_static_path = ['static']
 
