@@ -7,3 +7,4 @@ Welcome to SPAIDER Documentation
    presentation
    usage
    installation
+   about
