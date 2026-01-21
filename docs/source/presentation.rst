@@ -1,6 +1,6 @@
 SPAIDER
 =============
-See the `https://github.com/LizandroCloud/SpAIDER`_.
+See the Github repository:  'https://github.com/LizandroCloud/SpAIDER'_.
 
 Sequential and Parallel Algorithms Integrated to Differential Equation
 Routines (SPAIDER) is a collection of Matlab/Python scripts tailored to
