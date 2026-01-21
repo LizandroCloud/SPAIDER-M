@@ -1,20 +1,12 @@
 About
 =====
 
-Sequential and Parallel Algorithms Integrated to Differential Equation
-Routines (SPAIDER) is a collection of Matlab/Python scripts tailored to
-solve dynamic optimization and optimal control problems.
+O SPAIDER foi desenvolvido ao longo dos anos 2018-2026 a partir do trabalho resultante da tese de doutorado: . A motivação inicial do trabalho foi desenvolver estratégias adaptativas acopladas ao algoritmo de single shooting. Posteriormente, uma série de funcionalidades foi implementada, permitindo solucionar problemas com maior rapidez e facilidade. Finalmente, após uma série de testes, decidiu-se oficializar a primeira versão do SPAIDER (0.1.0) em 2026. 
 
-It provides single shooting (control vector parameterization) and
-multiple shooting algorithms. The main features of SPAIDER include:
+- Authors
 
-- Adaptive strategies for control-vector parameterization.
-- Symbolic environment for modelling of differential and algebraic equations (DAEs).
-- Interfaces with external solvers such as Aspen Hysys, Aspen Plus and EMSO.
-- Integration with Machine Learning Models.
-- Python and Matlab Interfaces.
-
-Source Code
------------
-
-The SPAIDER source code is available on GitHub: 'https://github.com/LizandroCloud/SpAIDER'_.
+  Lizandro de Sousa Santos
+  
+- Major Contributions
+  
+  Diego Jose Trica (2026)
