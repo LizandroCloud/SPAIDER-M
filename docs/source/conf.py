@@ -29,13 +29,7 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-#  html_theme = "sphinx_rtd_theme"
-html_theme_options = {
-    ...
-    "repository_url": "https://github.com/{your-docs-url}",
-    "use_repository_button": True,
-    ...
-}
+html_theme = "sphinx_rtd_theme"
 html_logo = 'static/logo.png'
 html_static_path = ['static']
 
