@@ -34,6 +34,9 @@ html_logo = 'static/logo_v5.png'
 html_static_path = ['static']
 html_title = "SPAIDER"
 
+def setup(app):
+    app.add_css_file('custom.css')
+
 html_css_files = [
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css",
 ]
