@@ -23,7 +23,7 @@ Author
 
    <div style="margin-top: 40px;"></div>
 
-*Major Contributions*
+Major Contributions
 ===================
   
   Diego Jose Trica (2026)
