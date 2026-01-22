@@ -16,10 +16,11 @@ Author
      <a href="https://github.com/seuusuario" target="_blank">
        <i class="fab fa-github"></i>
      </a>
+     <br>
    </div>
 
 
-Major Contributions
+*Major Contributions*
 ===================
   
   Diego Jose Trica (2026)
