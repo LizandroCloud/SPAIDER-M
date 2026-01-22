@@ -33,7 +33,7 @@ html_theme_options = {
     'github_user': 'sphinx-doc',
     'github_repo': 'alabaster',
 }
-html_logo = 'static/logo_v2.png'
+html_logo = 'static/logo_v3.png'
 html_static_path = ['static']
 
 
