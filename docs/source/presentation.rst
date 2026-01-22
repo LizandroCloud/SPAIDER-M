@@ -1,5 +1,5 @@
-SPAIDER
-=============
+What is SPAIDER?
+================
 
 Sequential and Parallel Algorithms Integrated to Differential Equation
 Routines (SPAIDER) is a collection of Matlab/Python scripts tailored to
