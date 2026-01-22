@@ -1,0 +1,15 @@
+/* muda o fundo da barra lateral */
+.wy-nav-side {
+    background-color: #2a2f45 !important;
+}
+
+/* muda a cor dos links */
+.wy-nav-side a {
+    color: #99ccff !important;
+}
+
+/* muda a cor quando o link está ativo */
+.wy-nav-side a.current {
+    background-color: #1f2538 !important;
+    color: #ffffff !important;
+}
