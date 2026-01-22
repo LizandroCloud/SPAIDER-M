@@ -10,7 +10,7 @@ Sequential and Parallel Algorithms Integrated to Differential Equation Routines 
 - Integration with Machine Learning Models.
 - Python and Matlab Interfaces.
 
-.. figure:: _static/logo_v3.png
+.. figure:: static/logo_v3.png
    :alt: Diagrama do sistema
    :align: center
    :width: 400px
