@@ -19,6 +19,9 @@ Author
      <br>
    </div>
 
+.. raw:: html
+
+   <div style="margin-top: 40px;"></div>
 
 *Major Contributions*
 ===================
