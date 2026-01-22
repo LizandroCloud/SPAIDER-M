@@ -1,14 +1,24 @@
-/* Altera o fundo da barra lateral para branco */
+/* Fundo da barra lateral em preto */
 .wy-nav-side {
     background: #000000 !important;
 }
 
-/* Altera a cor do texto e links para que fiquem visíveis */
+/* Cor do texto do menu para branco */
 .wy-menu-vertical a {
-    color: #333333 !important;
+    color: #ffffff !important;
 }
 
-/* Cor de fundo da barra de busca */
+/* Cor ao passar o mouse (hover) para não sumir no preto */
+.wy-menu-vertical a:hover {
+    background-color: #333333 !important;
+}
+
+/* Topo da barra lateral (onde fica a busca) */
 .wy-side-nav-search {
-    background-color: #ffffff !important;
+    background-color: #000000 !important;
+}
+
+/* Ajuste da cor do input de busca */
+.wy-side-nav-search input[type=text] {
+    border-color: #444444;
 }
