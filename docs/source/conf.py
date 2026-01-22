@@ -32,8 +32,8 @@ html_theme = 'sphinx_rtd_theme'
 
 html_logo = 'static/logo_v4.png'
 html_static_path = ['static']
-html_css_files = [
-    'css/custom.css',
+html_ccs_files = [
+    'css/custom.ccs',
 ]
 
 # -- Options for EPUB output
