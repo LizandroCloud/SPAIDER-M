@@ -1,0 +1,14 @@
+/* Altera o fundo da barra lateral para branco */
+.wy-nav-side {
+    background: #ffffff !important;
+}
+
+/* Altera a cor do texto e links para que fiquem visíveis */
+.wy-menu-vertical a {
+    color: #333333 !important;
+}
+
+/* Cor de fundo da barra de busca */
+.wy-side-nav-search {
+    background-color: #ffffff !important;
+}
