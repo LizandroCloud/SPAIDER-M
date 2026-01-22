@@ -16,12 +16,9 @@ Author
      <a href="https://github.com/seuusuario" target="_blank">
        <i class="fab fa-github"></i>
      </a>
-     <br>
+     <div style="margin-top: 80px;"></div>
    </div>
 
-.. raw:: html
-
-   <div style="margin-top: 40px;"></div>
 
 Major Contributions
 ===================
