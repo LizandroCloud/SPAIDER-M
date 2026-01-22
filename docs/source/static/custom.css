@@ -1,6 +1,6 @@
 /* Altera o fundo da barra lateral para branco */
 .wy-nav-side {
-    background: #ffffff !important;
+    background: #000000 !important;
 }
 
 /* Altera a cor do texto e links para que fiquem visíveis */
