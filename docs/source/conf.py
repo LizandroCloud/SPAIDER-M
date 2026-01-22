@@ -30,7 +30,7 @@ templates_path = ['_templates']
 html_theme_options = {
     'github_user': 'sphinx-doc',
     'github_repo': 'alabaster',
-    'logo_name': False,
+    "logo_name": False,
 }
 html_logo = 'static/logo_v4.png'
 html_static_path = ['static']
