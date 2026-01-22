@@ -34,9 +34,6 @@ html_logo = 'static/logo_v5.png'
 html_static_path = ['static']
 html_title = "SPAIDER"
 
-def setup(app):
-    app.add_css_file('custom.css')
-
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
