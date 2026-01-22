@@ -2,7 +2,6 @@
 
 # -- Project information
 
-project = 'SPAIDER'
 copyright = '2026, Graziella'
 author = 'Graziella'
 
