@@ -9,7 +9,7 @@ Author
 .. raw:: html
 
    <div class="social-links">
-     <div class="profile-name">Lizandro de Sousa Santos</div>
+     <div class="profile-name">Lizandro de Sousa Santos [Chemical Engineering Department - Universidade Federal Fluminense - Brazil]</div>
      <a href="https://github.com/seuusuario" target="_blank">
        <i class="fab fa-linkedin"></i>
      </a>
@@ -25,7 +25,7 @@ Major Contributions
 .. raw:: html
 
    <div class="social-links">
-     <div class="profile-name">Diego Jose Trica</div>
+     <div class="profile-name">Diego Jose Trica [Petrobras - Brazil]</div>
      <a href="https://github.com/seuusuario" target="_blank">
        <i class="fab fa-linkedin"></i>
      </a>
