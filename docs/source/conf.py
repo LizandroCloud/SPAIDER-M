@@ -30,7 +30,7 @@ templates_path = ['_templates']
 
 html_theme = 'sphinx_rtd_theme'
 
-html_logo = 'static/logo_v5.png'
+html_logo = 'static/logo_v6.png'
 html_static_path = ['static']
 html_title = "SPAIDER"
 
