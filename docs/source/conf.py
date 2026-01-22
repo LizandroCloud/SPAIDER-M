@@ -29,9 +29,10 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-html_theme = "sphinx_book_theme"
+html_theme = 'alabaster'
 html_logo = 'static/logo.png'
 html_static_path = ['static']
+
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
