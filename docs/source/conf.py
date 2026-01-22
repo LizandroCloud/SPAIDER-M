@@ -34,5 +34,10 @@ html_logo = 'static/logo_v4.png'
 html_static_path = ['static']
 html_title = "SPAIDER"
 
+html_css_files = [
+    "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css",
+]
+
+
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
