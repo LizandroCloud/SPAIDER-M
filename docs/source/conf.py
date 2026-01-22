@@ -1,8 +1,6 @@
 # Configuration file for the Sphinx documentation builder.
 
 # -- Project information
-project = ""
-
 copyright = '2026, Graziella'
 author = 'Graziella'
 
