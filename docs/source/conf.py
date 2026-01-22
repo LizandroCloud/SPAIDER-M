@@ -1,7 +1,9 @@
 # Configuration file for the Sphinx documentation builder.
 
 # -- Project information
-
+project = "SPAIDER"
+html_short_title = "SPAIDER-M Docs"
+html_title = "SPAIDER-M Documentation"
 copyright = '2026, Graziella'
 author = 'Graziella'
 
