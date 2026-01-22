@@ -19,8 +19,21 @@ Author
      <div style="margin-top: 80px;"></div>
    </div>
 
-
 Major Contributions
 ===================
   
-  Diego Jose Trica (2026)
+.. raw:: html
+
+   <div class="social-links">
+     <div class="profile-name">Diego Jose Trica</div>
+     <a href="https://github.com/seuusuario" target="_blank">
+       <i class="fab fa-linkedin"></i>
+     </a>
+     <a href="https://github.com/seuusuario" target="_blank">
+       <i class="fab fa-github"></i>
+     </a>
+     <div style="margin-top: 80px;"></div>
+   </div>
+
+Acknowledgments
+===================
