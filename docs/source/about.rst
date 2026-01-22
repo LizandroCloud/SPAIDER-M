@@ -37,3 +37,5 @@ Major Contributions
 
 Acknowledgments
 ===================
+
+`Texto do link <https://www.exemplo.com>`_
