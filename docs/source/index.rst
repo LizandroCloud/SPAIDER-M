@@ -16,6 +16,9 @@ Sequential and Parallel Algorithms Integrated to Differential Equation Routines 
    :width: 400px
 
 .. toctree::
+   :hidden:
+   :maxdepth: 2
+
    presentation
    usage
    installation
