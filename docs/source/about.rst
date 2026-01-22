@@ -10,6 +10,7 @@ Lizandro de Sousa Santos
 .. raw:: html
 
    <div class="social-links">
+     <div class="profile-name">Lizandro de Sousa Santos</div>
      <a href="https://github.com/seuusuario" target="_blank">
        <i class="fab fa-linkedin"></i>
      </a>
