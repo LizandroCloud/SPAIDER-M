@@ -19,7 +19,7 @@ Sequential and Parallel Algorithms Integrated to Differential Equation Routines 
    :hidden:
    :maxdepth: 2
 
-   what is SPAIDER?
+   presentation
    usage
    installation
    about
