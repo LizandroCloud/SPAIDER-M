@@ -18,6 +18,7 @@ Author
      </a>
      <div style="margin-top: 80px;"></div>
    </div>
+
 Major Contributions
 ===================
   
@@ -33,6 +34,7 @@ Major Contributions
      </a>
      <div style="margin-top: 80px;"></div>
    </div>
+
 Acknowledgments
 ===================
 
