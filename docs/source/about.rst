@@ -5,7 +5,8 @@ SPAIDER was developed between 2018 and 2025, originating from research conducted
 
 - Author
 
-  Lizandro de Sousa Santos  .. image:: https://cdn-icons-png.flaticon.com/16/174/174857.png
+  Lizandro de Sousa Santos    
+.. image:: https://cdn-icons-png.flaticon.com/16/174/174857.png
    :target: https://www.linkedin.com/in/lizandro-santos-80aa215b/
 
 - Major Contributions
