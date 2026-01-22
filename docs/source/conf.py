@@ -29,7 +29,11 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-html_theme = 'alabaster'
+html_theme_options = {
+    'logo': 'logo.png',
+    'github_user': 'sphinx-doc',
+    'github_repo': 'alabaster',
+}
 html_logo = 'static/logo.png'
 html_static_path = ['static']
 
