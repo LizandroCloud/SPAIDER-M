@@ -1,4 +1,4 @@
 sphinx==7.1.2
-alabaster
+sphinx_book_theme
 
 
