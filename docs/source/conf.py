@@ -37,10 +37,6 @@ html_title = "SPAIDER"
 def setup(app):
     app.add_css_file('custom.css')
 
-html_css_files = [
-    "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css",
-]
-
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
