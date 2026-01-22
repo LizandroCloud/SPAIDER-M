@@ -30,7 +30,7 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme_options = {
-    'logo_v2': 'logo.png',
+    'logo': 'logo_v2.png',
     'github_user': 'sphinx-doc',
     'github_repo': 'alabaster',
 }
