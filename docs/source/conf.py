@@ -43,6 +43,9 @@ html_logo = 'static/logo_v6.png'
 html_static_path = ['static']
 html_title = "SPAIDER"
 
+html_css_files = [
+    'custom.css',
+]
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
