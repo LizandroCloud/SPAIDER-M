@@ -23,7 +23,7 @@ Author
    </div>
 
 Major Contributions
--------------------
+
   
 .. raw:: html
 
