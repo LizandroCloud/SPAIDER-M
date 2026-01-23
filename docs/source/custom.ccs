@@ -1,14 +1,11 @@
-/* Altera o fundo da barra lateral para branco */
-.wy-nav-side {
-    background: #ffffff !important;
+/* Remove o texto antigo (Python) e insere o novo (SPAIDER) */
+.wy-side-nav-search > a {
+    font-size: 0 !important; /* Esconde o texto original */
 }
 
-/* Altera a cor do texto e links para que fiquem visíveis */
-.wy-menu-vertical a {
-    color: #333333 !important;
-}
-
-/* Cor de fundo da barra de busca */
-.wy-side-nav-search {
-    background-color: #ffffff !important;
+.wy-side-nav-search > a:after {
+    content: "SPAIDER"; /* Escreve o nome que você quer */
+    font-size: 16px !important; /* Ajuste o tamanho conforme necessário */
+    vertical-align: middle;
+    color: white; /* Ou a cor que preferir */
 }
