@@ -9,7 +9,7 @@ Author
 .. raw:: html
 
    <div class="social-links">
-     <div class="profile-name"><p style="color: #28a745; font-weight:">Lizandro de Sousa Santos</p> [Universidade Federal Fluminense - Brazil]</div>
+     <div class="profile-name"><p style="color: #191970; font-weight:">Lizandro de Sousa Santos [Universidade Federal Fluminense - Brazil]</p></div>
      <a href="https://github.com/seuusuario" target="_blank">
        <i class="fab fa-linkedin"></i>
      </a>
@@ -28,7 +28,7 @@ Major Contributions
 .. raw:: html
 
    <div class="social-links">
-     <div class="profile-name">M.Sc. Diego José Trica [Petrobras Company - Brazil]</div>
+     <div class="profile-name"><p style="color: #191970; font-weight:">M.Sc. Diego José Trica[Petrobras Company - Brazil]</p> </div>
      <a href="https://github.com/seuusuario" target="_blank">
        <i class="fab fa-linkedin"></i>
      </a>
