@@ -1,3 +1,10 @@
+.. role:: red
+   :class: red-text
+
+Este é um texto normal, mas :red:`esta parte é vermelha`.
+
+
+
 What is SPAIDER?
 ================
 
