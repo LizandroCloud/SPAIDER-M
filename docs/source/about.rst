@@ -9,7 +9,7 @@ Author
 .. raw:: html
 
    <div class="social-links">
-     <div class="profile-name"><p style="color: #191970; font-weight:">Lizandro de Sousa Santos [Universidade Federal Fluminense - Brazil]</p></div>
+     <div class="profile-name">Lizandro de Sousa Santos [Universidade Federal Fluminense - Brazil]</div>
      <a href="https://github.com/seuusuario" target="_blank">
        <i class="fab fa-linkedin"></i>
      </a>
