@@ -34,6 +34,10 @@ templates_path = ['_templates']
 
 
 html_theme = 'sphinx_rtd_theme'
+html_theme_options = {
+    'logo_only': False,       # Se estiver True, ele esconde o texto e mostra só a imagem
+    'display_version': True,  # Ajuda a forçar a atualização do bloco de texto
+}
 
 html_logo = 'static/logo_v6.png'
 html_static_path = ['static']
