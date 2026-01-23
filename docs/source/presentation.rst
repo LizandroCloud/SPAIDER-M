@@ -1,11 +1,3 @@
-.. raw:: html
-
-   <p style="color: #28a745; font-weight: bold;">
-      Este texto é verde e negrito via HTML puro dentro do RST.
-   </p>
-
-
-
 What is SPAIDER?
 ================
 
