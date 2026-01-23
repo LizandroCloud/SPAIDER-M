@@ -10,10 +10,15 @@ Sequential and Parallel Algorithms Integrated to Differential Equation Routines 
 - Integration with Machine Learning Models.
 - Python and Matlab Interfaces.
 
+SPAIDER was conceived primarily to solve chemical engineering problems. However, it is possible to implement any dynamic model described by systems of differential-algebraic equations. In addition, the toolbox was developed to solve the following problems: dynamic process simulation, steady-state calculation, parameter estimation, dynamic optimization, optimal control, sensitivity analysis, and the study of operational constraints in dynamic processes.
+
+
 .. figure:: static/logo_v3.png
    :alt: Diagrama do sistema
    :align: center
    :width: 400px
+
+
 
 .. toctree::
    :hidden:
