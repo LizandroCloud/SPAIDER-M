@@ -14,8 +14,6 @@ multiple shooting algorithms. The main features of SPAIDER include:
 - Integration with Machine Learning Models.
 - Python and Matlab Interfaces.
 
-SPAIDER was conceived primarily to solve chemical engineering problems. However, it is possible to implement any dynamic model described by systems of differential-algebraic equations. In addition, the toolbox was developed to solve the following problems: dynamic process simulation, steady-state calculation, parameter estimation, dynamic optimization, optimal control, sensitivity analysis, and the study of operational constraints in dynamic processes.
-
 Source Code
 -----------
 
