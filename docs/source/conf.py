@@ -3,6 +3,7 @@
 # -- Project information
 copyright = '2026, @Lizandro'
 author = 'Lizandro de Sousa Santos'
+project = 'SPAIDER'
 
 release = '0.1'
 version = '0.1.0'
