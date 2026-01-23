@@ -14,6 +14,10 @@ html_css_files = [
     'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css',
 ]
 
+html_css_files = [
+    "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css",
+]
+
 extensions = [
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
