@@ -14,8 +14,29 @@ multiple shooting algorithms. The main features of SPAIDER include:
 - Integration with Machine Learning Models.
 - Python and Matlab Interfaces.
 
+How it works
+------------
+
+In the single-shooting approach the control profile :math:`u(t)` is
+discretized into piecewise stages, and the dynamic optimization problem
+becomes a nonlinear programming (NLP) problem in the stage values. SPAIDER
+solves this NLP with ``fmincon``, integrating the DAE model at every
+evaluation and computing gradients through sensitivity equations.
+
+Instead of refining the mesh uniformly, SPAIDER analyses the optimal control
+profile of each iteration with a wavelet transform. Detail coefficients that
+survive a thresholding step mark the regions where the profile changes
+sharply, and only those regions are refined in the next iteration. The
+result is a control profile with few stages where it is smooth and many
+where it switches, at a fraction of the cost of a uniformly fine mesh.
+
+Iterations stop when the objective function stops improving (see
+``conv.f_tol`` in :doc:`configuration`) or when the maximum number of
+iterations or stages is reached.
+
 Source Code
 -----------
 
-The SPAIDER source code is available on GitHub: 'https://github.com/LizandroCloud/SpAIDER'_.
+The SPAIDER source code is available on GitHub:
+`LizandroCloud/SpAIDER <https://github.com/LizandroCloud/SpAIDER>`_.
 

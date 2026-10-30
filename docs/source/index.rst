@@ -25,6 +25,9 @@ SPAIDER was conceived primarily to solve chemical engineering problems. However,
    :maxdepth: 2
 
    presentation
-   usage
    installation
+   usage
+   configuration
+   examples
+   structure
    about

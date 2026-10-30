@@ -1,9 +1,18 @@
-Template for the Read the Docs tutorial
-=======================================
+SPAIDER documentation
+=====================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Source of the SPAIDER documentation published on Read the Docs.
+SPAIDER (Sequential and Parallel Algorithms Integrated to Differential
+Equation Routines) is a MATLAB toolbox for dynamic optimization and optimal
+control. Its source code lives at https://github.com/LizandroCloud/SpAIDER.
 
-Read the tutorial here:
+Building locally
+----------------
 
-https://docs.readthedocs.io/en/stable/tutorial/
+.. code-block:: console
+
+   $ pip install -r docs/requirements.txt
+   $ sphinx-build -b html docs/source docs/build/html
+
+Open ``docs/build/html/index.html`` in a browser. Read the Docs builds the
+same configuration from ``.readthedocs.yaml`` on every push.
